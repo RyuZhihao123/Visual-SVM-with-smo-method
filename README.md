@@ -7,7 +7,7 @@ C++ implementation of SVM using SMO method (Sequential Minimal Optimization)
 
 The code supports two kernel functions: **linear & Gaussian** kernels.
 
-**Reference paper:**
+**Reference:**
 Platt. *Sequential Minimal Optimization- A Fast Algorithm for Training Support Vector Machines.*
 
 ![image](https://github.com/RyuZhihao123/SMO_SVM/blob/master/screenshot/Screenshot1.png)
